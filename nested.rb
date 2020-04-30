@@ -110,6 +110,7 @@ def changing_alan
     }
 
 programmer_hash[:alan_kay][:known_for] = "GUI"
+return programmer_hash[:alan_kay][:known_for] 
 
 end
 
